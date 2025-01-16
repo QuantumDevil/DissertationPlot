@@ -37,6 +37,21 @@
         <mxCell id="9TDLlQAlEUStk0JPaJda-8" value="+13dB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="420" y="290" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9TDLlQAlEUStk0JPaJda-11" value="" style="endArrow=classicThin;html=1;strokeWidth=3;endSize=20;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9TDLlQAlEUStk0JPaJda-7" target="9TDLlQAlEUStk0JPaJda-9">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="315" y="249.5" as="sourcePoint" />
+            <mxPoint x="620" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TDLlQAlEUStk0JPaJda-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9TDLlQAlEUStk0JPaJda-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;" vertex="1" parent="9TDLlQAlEUStk0JPaJda-14">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9TDLlQAlEUStk0JPaJda-10" value="-13dB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=23;fontStyle=1" vertex="1" parent="9TDLlQAlEUStk0JPaJda-14">
+          <mxGeometry x="20" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
