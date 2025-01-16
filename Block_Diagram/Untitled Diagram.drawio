@@ -52,6 +52,15 @@
         <mxCell id="9TDLlQAlEUStk0JPaJda-10" value="-13dB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=23;fontStyle=1" vertex="1" parent="9TDLlQAlEUStk0JPaJda-14">
           <mxGeometry x="20" y="10" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9TDLlQAlEUStk0JPaJda-15" value="Frequency&lt;div&gt;Synthesizer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="215" y="415" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9TDLlQAlEUStk0JPaJda-16" value="&lt;div&gt;DDS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="95" y="280" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9TDLlQAlEUStk0JPaJda-17" value="&lt;div&gt;SSM&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="245" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
