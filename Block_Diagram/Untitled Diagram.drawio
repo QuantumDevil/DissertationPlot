@@ -212,6 +212,9 @@
         <mxCell id="nAM04V969YolYPxQZcXx-59" value="&lt;div&gt;Oscilloscope&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="844.38" y="464.51" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nAM04V969YolYPxQZcXx-60" value="&lt;div&gt;IF&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
