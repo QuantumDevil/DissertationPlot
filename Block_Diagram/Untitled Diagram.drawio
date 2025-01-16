@@ -25,14 +25,17 @@
             <mxPoint x="265" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TDLlQAlEUStk0JPaJda-6" value="" style="endArrow=classicThin;html=1;strokeWidth=3;endSize=20;rounded=0;" edge="1" parent="1">
+        <mxCell id="9TDLlQAlEUStk0JPaJda-6" value="" style="endArrow=classicThin;html=1;strokeWidth=3;endSize=20;rounded=0;" edge="1" parent="1" target="9TDLlQAlEUStk0JPaJda-7">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="305" y="239.5" as="sourcePoint" />
             <mxPoint x="405" y="239.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9TDLlQAlEUStk0JPaJda-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.amplifier;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="440" y="190" width="90" height="100" as="geometry" />
+          <mxGeometry x="440" y="195.55" width="80" height="88.89" as="geometry" />
+        </mxCell>
+        <mxCell id="9TDLlQAlEUStk0JPaJda-8" value="+13dB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
