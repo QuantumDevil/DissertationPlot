@@ -35,13 +35,10 @@
           <mxGeometry x="220" y="425" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9TDLlQAlEUStk0JPaJda-16" value="&lt;div&gt;Function&lt;/div&gt;&lt;div&gt;Generator&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="70" y="107.00000000000001" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9TDLlQAlEUStk0JPaJda-17" value="&lt;div&gt;SSB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="250" y="170" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nAM04V969YolYPxQZcXx-1" value="3.98 dBm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="170" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nAM04V969YolYPxQZcXx-2" value="17.0 dBm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="175" y="305" width="100" height="40" as="geometry" />
