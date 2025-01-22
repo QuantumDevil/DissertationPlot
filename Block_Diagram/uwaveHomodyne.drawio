@@ -248,6 +248,9 @@
         <mxCell id="rfwt-WRQC5ZnH1lrkUBM-16" value="&lt;div&gt;ST&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="206.25" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rfwt-WRQC5ZnH1lrkUBM-17" value="Directional&lt;div&gt;&amp;nbsp;Coupler&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Congenial;fontStyle=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="826.5" y="-1.4210854715202004e-14" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
