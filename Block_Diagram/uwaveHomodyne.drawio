@@ -133,11 +133,11 @@
         <mxCell id="9hR5wfVV06nnKeJmR_cX-75" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.amplifier;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="443" y="60.55" width="80" height="88.89" as="geometry" />
         </mxCell>
-        <mxCell id="9hR5wfVV06nnKeJmR_cX-76" value="+23dB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="440" y="145.44" width="80" height="40" as="geometry" />
+        <mxCell id="9hR5wfVV06nnKeJmR_cX-76" value="+23 dB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="418" y="145.44" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9hR5wfVV06nnKeJmR_cX-81" value="-13dB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="320" y="136" width="70" height="40" as="geometry" />
+        <mxCell id="9hR5wfVV06nnKeJmR_cX-81" value="-13 dB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="315" y="132" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9hR5wfVV06nnKeJmR_cX-86" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.highpass_filter;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="200" y="79.5" width="71.15" height="55.5" as="geometry" />
@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rfwt-WRQC5ZnH1lrkUBM-5" value="&lt;div&gt;25 MHz&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="209" y="145.44" width="90" height="40" as="geometry" />
+          <mxGeometry x="194.38" y="133" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rfwt-WRQC5ZnH1lrkUBM-6" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=0.533;entryY=-0.018;entryDx=0;entryDy=0;exitX=0.536;exitY=0.989;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -225,6 +225,15 @@
             <mxPoint x="651.65" y="103.85" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rfwt-WRQC5ZnH1lrkUBM-11" value="&lt;div&gt;90 MHz&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="538.0799999999999" y="131" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rfwt-WRQC5ZnH1lrkUBM-12" value="17.0 dBm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="199.38" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rfwt-WRQC5ZnH1lrkUBM-13" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=pulse;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="200" y="171.25" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
