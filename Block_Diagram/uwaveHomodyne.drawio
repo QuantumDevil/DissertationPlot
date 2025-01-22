@@ -64,11 +64,11 @@
         <mxCell id="9hR5wfVV06nnKeJmR_cX-36" value="&lt;font face=&quot;Congenial&quot;&gt;$$\phi $$&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="40" y="329" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9hR5wfVV06nnKeJmR_cX-37" value="&lt;div&gt;Mixer 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="814.5" y="264" width="90" height="40" as="geometry" />
+        <mxCell id="9hR5wfVV06nnKeJmR_cX-37" value="&lt;div&gt;HF Mixer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="809.5" y="264" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9hR5wfVV06nnKeJmR_cX-38" value="&lt;div&gt;Mixer 2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="445" y="425.49" width="90" height="40" as="geometry" />
+        <mxCell id="9hR5wfVV06nnKeJmR_cX-38" value="&lt;div&gt;LF Mixer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="440" y="425.49" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9hR5wfVV06nnKeJmR_cX-39" value="&lt;div&gt;Tunable&lt;/div&gt;&lt;div&gt;Phase&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontFamily=Congenial;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="66" y="264" width="100" height="60" as="geometry" />
