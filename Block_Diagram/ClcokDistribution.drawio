@@ -145,7 +145,7 @@
         <mxCell id="2XvLTmgFa15NH41Y0j28-33" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=ac;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="495" y="707" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2XvLTmgFa15NH41Y0j28-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="2XvLTmgFa15NH41Y0j28-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;container=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="305" y="667" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2XvLTmgFa15NH41Y0j28-35" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
@@ -208,7 +208,7 @@
             <mxPoint x="255" y="677" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2XvLTmgFa15NH41Y0j28-45" value="Power&lt;div&gt;Splitter&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;fontSize=20;fontFamily=Congenial;" vertex="1" parent="1">
+        <mxCell id="2XvLTmgFa15NH41Y0j28-45" value="Tee&lt;div&gt;Splitter&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;fontSize=20;fontFamily=Congenial;" vertex="1" parent="1">
           <mxGeometry x="320" y="597" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2XvLTmgFa15NH41Y0j28-46" value="&lt;div&gt;Frequency&lt;/div&gt;&lt;div&gt;Synthesizer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;fontSize=20;fontFamily=Congenial;fontColor=light-dark(#9774a6, #ededed);" vertex="1" parent="1">
